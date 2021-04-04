@@ -1,1 +1,2 @@
 # ImageCleaningProject
+Updated Classic Techniques
