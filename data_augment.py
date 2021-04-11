@@ -1,5 +1,9 @@
 import cv2
 from glob import glob
+import random
+import os
+import re
+import shutil
 
 # trainA
 files = sorted(glob("./denoising-dirty-documents/train/*.png"))
@@ -40,25 +44,19 @@ if len(glob('./datasets/noisytext/trainB/*.png')) < total_trainB:
             cv2.imwrite(new_file, img)
             print(file + ' -> ' + new_file)
 
-# testA
-files = sorted(glob("./denoising-dirty-documents/test/*.png"))
-total_testA = len(files)
-if len(glob('./datasets/noisytext/testA/*.png')) < total_testA:
-    for idx, file in enumerate(files):
-        img_orig = cv2.imread(file)
-        new_file = './datasets/noisytext/testA/img_%04d.png' % idx
-        cv2.imwrite(new_file, img_orig)
-        print(file + ' -> ' + new_file)
-
 
 # Noisy Office dataset
 
-# trainA
 files = sorted(glob("./NoisyOffice/SimulatedNoisyOffice/simulated_noisy_images_grayscale/*.png"))
 total_trainA += len(files) * 8
+total_trainB += len(files) * 8
 curr_trainA = len(glob('./datasets/noisytext/trainA/*.png'))
 if curr_trainA < total_trainA:
-    for idx, file in enumerate(files, curr_trainA):
+    for idx, file in enumerate(files, curr_trainA // 8):
+        basename = os.path.basename(file)
+        clean_file = './NoisyOffice/SimulatedNoisyOffice/clean_images_grayscale/' + re.sub(r'Noise[a-z]', 'Clean', basename)
+
+        # trainA
         img_orig = cv2.imread(file)
         img_rot90 = cv2.rotate(img_orig, cv2.ROTATE_90_CLOCKWISE)
         img_rot180 = cv2.rotate(img_orig, cv2.ROTATE_180)
@@ -73,14 +71,8 @@ if curr_trainA < total_trainA:
             cv2.imwrite(new_file, img)
             print(file + ' -> ' + new_file)
 
-
-# trainB
-files = sorted(glob("./NoisyOffice/SimulatedNoisyOffice/clean_images_grayscale/*.png"))
-total_trainB += len(files) * 8
-curr_trainB = len(glob('./datasets/noisytext/trainB/*.png'))
-if curr_trainB < total_trainB:
-    for idx, file in enumerate(files, curr_trainB):
-        img_orig = cv2.imread(file)
+        # trainB
+        img_orig = cv2.imread(clean_file)
         img_rot90 = cv2.rotate(img_orig, cv2.ROTATE_90_CLOCKWISE)
         img_rot180 = cv2.rotate(img_orig, cv2.ROTATE_180)
         img_rot270 = cv2.rotate(img_orig, cv2.ROTATE_90_COUNTERCLOCKWISE)
@@ -94,13 +86,14 @@ if curr_trainB < total_trainB:
             cv2.imwrite(new_file, img)
             print(file + ' -> ' + new_file)
 
-# testA
-files = sorted(glob("./NoisyOffice/RealNoisyOffice/real_noisy_images_grayscale/*.png"))
-total_testA += len(files)
-curr_testA = len(glob('./datasets/noisytext/testA/*.png'))
-if curr_testA < total_testA:
-    for idx, file in enumerate(files, curr_testA):
-        img_orig = cv2.imread(file)
-        new_file = './datasets/noisytext/testA/img_%04d.png' % idx
-        cv2.imwrite(new_file, img_orig)
-        print(file + ' -> ' + new_file)
+# Random sample for test dataset
+random.seed(69)
+test_perc = 0.15
+test_quant = int(total_trainA // 8 * test_perc)
+test_sample = sorted(random.sample(list(range(total_trainA // 8)), test_quant))
+
+if len(glob('./datasets/noisytext/testA/*.png')) < test_quant:
+    for idx in test_sample:
+        for i in range(8):
+            shutil.move("./datasets/noisytext/trainA/img_%04d.png" % (idx*8+i), "./datasets/noisytext/testA/img_%04d.png" % (idx*8+i))
+            shutil.move("./datasets/noisytext/trainB/img_%04d.png" % (idx*8+i), "./datasets/noisytext/testB/img_%04d.png" % (idx*8+i))
