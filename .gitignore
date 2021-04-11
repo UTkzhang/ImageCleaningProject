@@ -1,2 +1,3 @@
 .idea/
-results/noisytext_cyclegan
+results/noisytext_cyclegan/*
+!results/noisytext_cyclegan/test_15
