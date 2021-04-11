@@ -58,3 +58,15 @@ print(stacker_mse)
 autoencoder_mse = mse_calc(truth_files, "./results/autoencoder_test_outputs_full/autoencoder_cleaned_%s.png")
 print("=== AUTOENCODER RESULT ===")
 print(autoencoder_mse)
+
+adaptivefiltered_mse = mse_calc(truth_files, "./results/adaptive_filtered/%s.png")
+print("=== ADAPTIVEFILTERED RESULT ===")
+print(adaptivefiltered_mse)
+
+edgedilationerosion_mse = mse_calc(truth_files, "./results/edge_dilation_erosion/%s.png")
+print("=== EDGEDILATIONEROSION RESULT ===")
+print(edgedilationerosion_mse)
+
+medianfiltered_mse = mse_calc(truth_files, "./results/median_filtered/%s.png")
+print("=== MEDIANFILTERED RESULT ===")
+print(medianfiltered_mse)
