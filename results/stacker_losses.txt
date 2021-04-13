@@ -1,0 +1,382 @@
+New model saved!
+Epoch 1, Total training loss 6.857085, Total validation loss 0.335055
+New model saved!
+Epoch 2, Total training loss 0.510578, Total validation loss 0.040794
+New model saved!
+Epoch 3, Total training loss 0.170757, Total validation loss 0.025992
+New model saved!
+Epoch 4, Total training loss 0.126762, Total validation loss 0.022300
+New model saved!
+Epoch 5, Total training loss 0.110168, Total validation loss 0.019628
+New model saved!
+Epoch 6, Total training loss 0.100775, Total validation loss 0.018030
+New model saved!
+Epoch 7, Total training loss 0.093269, Total validation loss 0.016866
+New model saved!
+Epoch 8, Total training loss 0.088068, Total validation loss 0.016410
+New model saved!
+Epoch 9, Total training loss 0.083394, Total validation loss 0.015269
+New model saved!
+Epoch 10, Total training loss 0.079862, Total validation loss 0.014606
+Epoch 11, Total training loss 0.077036, Total validation loss 0.015723
+New model saved!
+Epoch 12, Total training loss 0.074903, Total validation loss 0.014029
+Epoch 13, Total training loss 0.071783, Total validation loss 0.015955
+New model saved!
+Epoch 14, Total training loss 0.070648, Total validation loss 0.013333
+Epoch 15, Total training loss 0.068382, Total validation loss 0.017590
+New model saved!
+Epoch 16, Total training loss 0.068002, Total validation loss 0.012567
+Epoch 17, Total training loss 0.065329, Total validation loss 0.013627
+Epoch 18, Total training loss 0.064514, Total validation loss 0.012803
+New model saved!
+Epoch 19, Total training loss 0.062026, Total validation loss 0.011802
+New model saved!
+Epoch 20, Total training loss 0.060610, Total validation loss 0.011156
+New model saved!
+Epoch 21, Total training loss 0.059057, Total validation loss 0.010859
+New model saved!
+Epoch 22, Total training loss 0.058420, Total validation loss 0.010681
+New model saved!
+Epoch 23, Total training loss 0.057783, Total validation loss 0.010530
+Epoch 24, Total training loss 0.056245, Total validation loss 0.011592
+New model saved!
+Epoch 25, Total training loss 0.055424, Total validation loss 0.010147
+Epoch 26, Total training loss 0.054267, Total validation loss 0.010706
+Epoch 27, Total training loss 0.053452, Total validation loss 0.014427
+New model saved!
+Epoch 28, Total training loss 0.054382, Total validation loss 0.009675
+New model saved!
+Epoch 29, Total training loss 0.051519, Total validation loss 0.009499
+New model saved!
+Epoch 30, Total training loss 0.050570, Total validation loss 0.009207
+Epoch 31, Total training loss 0.049171, Total validation loss 0.009278
+Epoch 32, Total training loss 0.049728, Total validation loss 0.010141
+New model saved!
+Epoch 33, Total training loss 0.048163, Total validation loss 0.009101
+New model saved!
+Epoch 34, Total training loss 0.046995, Total validation loss 0.008657
+New model saved!
+Epoch 35, Total training loss 0.045545, Total validation loss 0.008484
+Epoch 36, Total training loss 0.046685, Total validation loss 0.021868
+Epoch 37, Total training loss 0.048582, Total validation loss 0.009120
+New model saved!
+Epoch 38, Total training loss 0.043843, Total validation loss 0.008048
+New model saved!
+Epoch 39, Total training loss 0.041975, Total validation loss 0.007850
+New model saved!
+Epoch 40, Total training loss 0.041228, Total validation loss 0.007766
+New model saved!
+Epoch 41, Total training loss 0.041116, Total validation loss 0.007619
+New model saved!
+Epoch 42, Total training loss 0.040447, Total validation loss 0.007474
+Epoch 43, Total training loss 0.039781, Total validation loss 0.007791
+New model saved!
+Epoch 44, Total training loss 0.039869, Total validation loss 0.007207
+Epoch 45, Total training loss 0.038141, Total validation loss 0.007444
+Epoch 46, Total training loss 0.037635, Total validation loss 0.007361
+Epoch 47, Total training loss 0.037454, Total validation loss 0.008642
+Epoch 48, Total training loss 0.037760, Total validation loss 0.007780
+New model saved!
+Epoch 49, Total training loss 0.036647, Total validation loss 0.006823
+New model saved!
+Epoch 50, Total training loss 0.035588, Total validation loss 0.006677
+Epoch 51, Total training loss 0.035552, Total validation loss 0.006743
+Epoch 52, Total training loss 0.035457, Total validation loss 0.006943
+Epoch 53, Total training loss 0.035024, Total validation loss 0.006706
+New model saved!
+Epoch 54, Total training loss 0.034396, Total validation loss 0.006402
+Epoch 55, Total training loss 0.033848, Total validation loss 0.006572
+Epoch 56, Total training loss 0.034276, Total validation loss 0.008004
+Epoch 57, Total training loss 0.034016, Total validation loss 0.006696
+Epoch 58, Total training loss 0.033189, Total validation loss 0.006893
+Epoch 59, Total training loss 0.033596, Total validation loss 0.007102
+New model saved!
+Epoch 60, Total training loss 0.033175, Total validation loss 0.006176
+Epoch 61, Total training loss 0.032777, Total validation loss 0.006708
+Epoch 62, Total training loss 0.033313, Total validation loss 0.007844
+Epoch 63, Total training loss 0.032495, Total validation loss 0.006319
+Epoch 64, Total training loss 0.032059, Total validation loss 0.006273
+Epoch 65, Total training loss 0.032334, Total validation loss 0.006438
+New model saved!
+Epoch 66, Total training loss 0.031522, Total validation loss 0.006102
+New model saved!
+Epoch 67, Total training loss 0.032171, Total validation loss 0.005978
+Epoch 68, Total training loss 0.031078, Total validation loss 0.007403
+New model saved!
+Epoch 69, Total training loss 0.030895, Total validation loss 0.005762
+Epoch 70, Total training loss 0.031396, Total validation loss 0.006313
+Epoch 71, Total training loss 0.030646, Total validation loss 0.005780
+Epoch 72, Total training loss 0.030283, Total validation loss 0.008926
+New model saved!
+Epoch 73, Total training loss 0.030884, Total validation loss 0.005711
+New model saved!
+Epoch 74, Total training loss 0.030172, Total validation loss 0.005611
+New model saved!
+Epoch 75, Total training loss 0.029707, Total validation loss 0.005543
+New model saved!
+Epoch 76, Total training loss 0.029561, Total validation loss 0.005499
+Epoch 77, Total training loss 0.029351, Total validation loss 0.005913
+New model saved!
+Epoch 78, Total training loss 0.029261, Total validation loss 0.005463
+Epoch 79, Total training loss 0.029994, Total validation loss 0.007270
+Epoch 80, Total training loss 0.030136, Total validation loss 0.005522
+Epoch 81, Total training loss 0.029032, Total validation loss 0.005627
+Epoch 82, Total training loss 0.029022, Total validation loss 0.006252
+New model saved!
+Epoch 83, Total training loss 0.029092, Total validation loss 0.005398
+Epoch 84, Total training loss 0.028891, Total validation loss 0.005534
+Epoch 85, Total training loss 0.028439, Total validation loss 0.005492
+Epoch 86, Total training loss 0.028490, Total validation loss 0.007040
+New model saved!
+Epoch 87, Total training loss 0.028881, Total validation loss 0.005291
+Epoch 88, Total training loss 0.028269, Total validation loss 0.005528
+Epoch 89, Total training loss 0.028280, Total validation loss 0.005454
+New model saved!
+Epoch 90, Total training loss 0.028084, Total validation loss 0.005258
+Epoch 91, Total training loss 0.028508, Total validation loss 0.005917
+New model saved!
+Epoch 92, Total training loss 0.028813, Total validation loss 0.005236
+Epoch 93, Total training loss 0.027834, Total validation loss 0.005445
+Epoch 94, Total training loss 0.028034, Total validation loss 0.005362
+New model saved!
+Epoch 95, Total training loss 0.027808, Total validation loss 0.005217
+Epoch 96, Total training loss 0.027149, Total validation loss 0.005217
+Epoch 97, Total training loss 0.027329, Total validation loss 0.005585
+Epoch 98, Total training loss 0.027335, Total validation loss 0.005342
+Epoch 99, Total training loss 0.027013, Total validation loss 0.005217
+New model saved!
+Epoch 100, Total training loss 0.027298, Total validation loss 0.005156
+Epoch 101, Total training loss 0.027207, Total validation loss 0.006715
+New model saved!
+Epoch 102, Total training loss 0.028094, Total validation loss 0.005095
+Epoch 103, Total training loss 0.026464, Total validation loss 0.005134
+New model saved!
+Epoch 104, Total training loss 0.026448, Total validation loss 0.005064
+Epoch 105, Total training loss 0.026178, Total validation loss 0.005114
+New model saved!
+Epoch 106, Total training loss 0.026325, Total validation loss 0.005060
+Epoch 107, Total training loss 0.026475, Total validation loss 0.005223
+Epoch 108, Total training loss 0.026266, Total validation loss 0.007243
+Epoch 109, Total training loss 0.027059, Total validation loss 0.005169
+New model saved!
+Epoch 110, Total training loss 0.026163, Total validation loss 0.004872
+Epoch 111, Total training loss 0.026392, Total validation loss 0.005154
+New model saved!
+Epoch 112, Total training loss 0.025842, Total validation loss 0.004833
+Epoch 113, Total training loss 0.026010, Total validation loss 0.004910
+New model saved!
+Epoch 114, Total training loss 0.026309, Total validation loss 0.004790
+Epoch 115, Total training loss 0.026265, Total validation loss 0.005076
+Epoch 116, Total training loss 0.026082, Total validation loss 0.004855
+Epoch 117, Total training loss 0.026312, Total validation loss 0.004839
+Epoch 118, Total training loss 0.025953, Total validation loss 0.005454
+Epoch 119, Total training loss 0.025846, Total validation loss 0.004791
+Epoch 120, Total training loss 0.025133, Total validation loss 0.004870
+Epoch 121, Total training loss 0.025479, Total validation loss 0.006251
+Epoch 122, Total training loss 0.026199, Total validation loss 0.007478
+Epoch 123, Total training loss 0.025973, Total validation loss 0.004844
+Epoch 124, Total training loss 0.025277, Total validation loss 0.008806
+New model saved!
+Epoch 125, Total training loss 0.027751, Total validation loss 0.004687
+Epoch 126, Total training loss 0.024781, Total validation loss 0.004794
+Epoch 127, Total training loss 0.024748, Total validation loss 0.004725
+Epoch 128, Total training loss 0.024727, Total validation loss 0.004816
+Epoch 129, Total training loss 0.024886, Total validation loss 0.005039
+Epoch 130, Total training loss 0.024799, Total validation loss 0.004767
+Epoch 131, Total training loss 0.024363, Total validation loss 0.004840
+Epoch 132, Total training loss 0.024597, Total validation loss 0.004839
+New model saved!
+Epoch 133, Total training loss 0.024462, Total validation loss 0.004660
+Epoch 134, Total training loss 0.024372, Total validation loss 0.004760
+Epoch 135, Total training loss 0.024433, Total validation loss 0.005131
+Epoch 136, Total training loss 0.024158, Total validation loss 0.007530
+New model saved!
+Epoch 137, Total training loss 0.024847, Total validation loss 0.004516
+Epoch 138, Total training loss 0.024071, Total validation loss 0.004552
+Epoch 139, Total training loss 0.024129, Total validation loss 0.006172
+Epoch 140, Total training loss 0.025219, Total validation loss 0.004931
+Epoch 141, Total training loss 0.024076, Total validation loss 0.004697
+Epoch 142, Total training loss 0.024119, Total validation loss 0.004905
+Epoch 143, Total training loss 0.023878, Total validation loss 0.005843
+Epoch 144, Total training loss 0.024500, Total validation loss 0.004799
+Epoch 145, Total training loss 0.023889, Total validation loss 0.005011
+Epoch 146, Total training loss 0.023475, Total validation loss 0.005172
+Epoch 147, Total training loss 0.023691, Total validation loss 0.005762
+Epoch 148, Total training loss 0.023865, Total validation loss 0.004656
+Epoch 149, Total training loss 0.025162, Total validation loss 0.006913
+Epoch 150, Total training loss 0.024417, Total validation loss 0.004775
+Epoch 151, Total training loss 0.024506, Total validation loss 0.004662
+Epoch 152, Total training loss 0.023200, Total validation loss 0.004786
+New model saved!
+Epoch 153, Total training loss 0.023975, Total validation loss 0.004409
+Epoch 154, Total training loss 0.023146, Total validation loss 0.005167
+Epoch 155, Total training loss 0.023592, Total validation loss 0.004708
+New model saved!
+Epoch 156, Total training loss 0.023267, Total validation loss 0.004270
+Epoch 157, Total training loss 0.023271, Total validation loss 0.004461
+Epoch 158, Total training loss 0.022924, Total validation loss 0.004322
+New model saved!
+Epoch 159, Total training loss 0.022515, Total validation loss 0.004242
+Epoch 160, Total training loss 0.023032, Total validation loss 0.004451
+Epoch 161, Total training loss 0.023123, Total validation loss 0.004254
+Epoch 162, Total training loss 0.022438, Total validation loss 0.004452
+Epoch 163, Total training loss 0.022559, Total validation loss 0.004402
+New model saved!
+Epoch 164, Total training loss 0.022429, Total validation loss 0.004187
+Epoch 165, Total training loss 0.022562, Total validation loss 0.004258
+Epoch 166, Total training loss 0.022384, Total validation loss 0.004299
+Epoch 167, Total training loss 0.022824, Total validation loss 0.004620
+Epoch 168, Total training loss 0.022348, Total validation loss 0.004380
+Epoch 169, Total training loss 0.022598, Total validation loss 0.004268
+New model saved!
+Epoch 170, Total training loss 0.022088, Total validation loss 0.004149
+Epoch 171, Total training loss 0.022860, Total validation loss 0.004436
+Epoch 172, Total training loss 0.023298, Total validation loss 0.004675
+Epoch 173, Total training loss 0.022366, Total validation loss 0.004263
+Epoch 174, Total training loss 0.021955, Total validation loss 0.004730
+Epoch 175, Total training loss 0.021942, Total validation loss 0.004163
+New model saved!
+Epoch 176, Total training loss 0.021664, Total validation loss 0.004103
+Epoch 177, Total training loss 0.021947, Total validation loss 0.005017
+Epoch 178, Total training loss 0.022165, Total validation loss 0.004113
+Epoch 179, Total training loss 0.021993, Total validation loss 0.004139
+Epoch 180, Total training loss 0.021993, Total validation loss 0.004219
+Epoch 181, Total training loss 0.021424, Total validation loss 0.004139
+Epoch 182, Total training loss 0.021657, Total validation loss 0.005903
+Epoch 183, Total training loss 0.022033, Total validation loss 0.004869
+Epoch 184, Total training loss 0.021900, Total validation loss 0.004370
+Epoch 185, Total training loss 0.021801, Total validation loss 0.005834
+Epoch 186, Total training loss 0.022061, Total validation loss 0.004433
+New model saved!
+Epoch 187, Total training loss 0.021559, Total validation loss 0.004050
+New model saved!
+Epoch 188, Total training loss 0.021120, Total validation loss 0.003994
+Epoch 189, Total training loss 0.021171, Total validation loss 0.004259
+New model saved!
+Epoch 190, Total training loss 0.020951, Total validation loss 0.003978
+Epoch 191, Total training loss 0.020979, Total validation loss 0.004567
+New model saved!
+Epoch 192, Total training loss 0.021351, Total validation loss 0.003935
+Epoch 193, Total training loss 0.021056, Total validation loss 0.004459
+Epoch 194, Total training loss 0.021071, Total validation loss 0.004064
+Epoch 195, Total training loss 0.020752, Total validation loss 0.004475
+New model saved!
+Epoch 196, Total training loss 0.021047, Total validation loss 0.003905
+Epoch 197, Total training loss 0.020783, Total validation loss 0.004304
+Epoch 198, Total training loss 0.021850, Total validation loss 0.004490
+Epoch 199, Total training loss 0.020749, Total validation loss 0.003921
+Epoch 200, Total training loss 0.020489, Total validation loss 0.004522
+Epoch 201, Total training loss 0.020609, Total validation loss 0.004012
+Epoch 202, Total training loss 0.021440, Total validation loss 0.006970
+Epoch 203, Total training loss 0.021961, Total validation loss 0.004025
+Epoch 204, Total training loss 0.020587, Total validation loss 0.003938
+Epoch 205, Total training loss 0.020908, Total validation loss 0.004202
+Epoch 206, Total training loss 0.022216, Total validation loss 0.004386
+Epoch 207, Total training loss 0.020580, Total validation loss 0.004388
+New model saved!
+Epoch 208, Total training loss 0.021667, Total validation loss 0.003843
+Epoch 209, Total training loss 0.020614, Total validation loss 0.006012
+Epoch 210, Total training loss 0.021075, Total validation loss 0.004162
+New model saved!
+Epoch 211, Total training loss 0.020415, Total validation loss 0.003797
+New model saved!
+Epoch 212, Total training loss 0.019949, Total validation loss 0.003752
+Epoch 213, Total training loss 0.019915, Total validation loss 0.004457
+Epoch 214, Total training loss 0.020368, Total validation loss 0.003921
+Epoch 215, Total training loss 0.020458, Total validation loss 0.003920
+Epoch 216, Total training loss 0.020607, Total validation loss 0.005440
+Epoch 217, Total training loss 0.020988, Total validation loss 0.003809
+Epoch 218, Total training loss 0.019626, Total validation loss 0.003793
+Epoch 219, Total training loss 0.021269, Total validation loss 0.004289
+New model saved!
+Epoch 220, Total training loss 0.019831, Total validation loss 0.003708
+Epoch 221, Total training loss 0.019773, Total validation loss 0.005037
+New model saved!
+Epoch 222, Total training loss 0.019979, Total validation loss 0.003683
+Epoch 223, Total training loss 0.019787, Total validation loss 0.003752
+Epoch 224, Total training loss 0.019573, Total validation loss 0.003993
+Epoch 225, Total training loss 0.019825, Total validation loss 0.003685
+Epoch 226, Total training loss 0.019394, Total validation loss 0.003817
+Epoch 227, Total training loss 0.019616, Total validation loss 0.003832
+Epoch 228, Total training loss 0.019163, Total validation loss 0.003788
+Epoch 229, Total training loss 0.019838, Total validation loss 0.003711
+Epoch 230, Total training loss 0.019532, Total validation loss 0.005027
+New model saved!
+Epoch 231, Total training loss 0.019440, Total validation loss 0.003587
+Epoch 232, Total training loss 0.019120, Total validation loss 0.003684
+Epoch 233, Total training loss 0.019207, Total validation loss 0.003762
+Epoch 234, Total training loss 0.019190, Total validation loss 0.003862
+Epoch 235, Total training loss 0.019006, Total validation loss 0.003686
+Epoch 236, Total training loss 0.018789, Total validation loss 0.003681
+New model saved!
+Epoch 237, Total training loss 0.018956, Total validation loss 0.003546
+Epoch 238, Total training loss 0.018804, Total validation loss 0.004078
+Epoch 239, Total training loss 0.018741, Total validation loss 0.003555
+Epoch 240, Total training loss 0.018518, Total validation loss 0.003582
+New model saved!
+Epoch 241, Total training loss 0.018840, Total validation loss 0.003537
+Epoch 242, Total training loss 0.018733, Total validation loss 0.003545
+Epoch 243, Total training loss 0.018637, Total validation loss 0.003753
+Epoch 244, Total training loss 0.019032, Total validation loss 0.003852
+Epoch 245, Total training loss 0.019363, Total validation loss 0.006805
+Epoch 246, Total training loss 0.021393, Total validation loss 0.004146
+New model saved!
+Epoch 247, Total training loss 0.019140, Total validation loss 0.003531
+Epoch 248, Total training loss 0.018383, Total validation loss 0.003998
+Epoch 249, Total training loss 0.019041, Total validation loss 0.003557
+Epoch 250, Total training loss 0.018413, Total validation loss 0.003900
+Epoch 251, Total training loss 0.019374, Total validation loss 0.007973
+Epoch 252, Total training loss 0.021749, Total validation loss 0.003864
+New model saved!
+Epoch 253, Total training loss 0.018533, Total validation loss 0.003439
+Epoch 254, Total training loss 0.018007, Total validation loss 0.003668
+Epoch 255, Total training loss 0.018234, Total validation loss 0.003479
+Epoch 256, Total training loss 0.018062, Total validation loss 0.003494
+Epoch 257, Total training loss 0.017913, Total validation loss 0.003469
+Epoch 258, Total training loss 0.018024, Total validation loss 0.003478
+Epoch 259, Total training loss 0.017934, Total validation loss 0.003446
+Epoch 260, Total training loss 0.018246, Total validation loss 0.003518
+Epoch 261, Total training loss 0.018202, Total validation loss 0.003510
+Epoch 262, Total training loss 0.017886, Total validation loss 0.003496
+Epoch 263, Total training loss 0.017967, Total validation loss 0.003447
+Epoch 264, Total training loss 0.017981, Total validation loss 0.003562
+Epoch 265, Total training loss 0.017956, Total validation loss 0.004531
+Epoch 266, Total training loss 0.018276, Total validation loss 0.003589
+Epoch 267, Total training loss 0.018067, Total validation loss 0.003493
+Epoch 268, Total training loss 0.018036, Total validation loss 0.003907
+Epoch 269, Total training loss 0.017967, Total validation loss 0.003764
+Epoch 270, Total training loss 0.017722, Total validation loss 0.003553
+Epoch 271, Total training loss 0.017849, Total validation loss 0.003787
+New model saved!
+Epoch 272, Total training loss 0.018159, Total validation loss 0.003354
+Epoch 273, Total training loss 0.017567, Total validation loss 0.003548
+Epoch 274, Total training loss 0.017452, Total validation loss 0.003445
+Epoch 275, Total training loss 0.017748, Total validation loss 0.003706
+Epoch 276, Total training loss 0.017679, Total validation loss 0.003964
+Epoch 277, Total training loss 0.017663, Total validation loss 0.003578
+Epoch 278, Total training loss 0.017821, Total validation loss 0.004160
+Epoch 279, Total training loss 0.017972, Total validation loss 0.005486
+Epoch 280, Total training loss 0.018393, Total validation loss 0.003557
+Epoch 281, Total training loss 0.017567, Total validation loss 0.003893
+Epoch 282, Total training loss 0.017554, Total validation loss 0.003358
+Epoch 283, Total training loss 0.017308, Total validation loss 0.003364
+Epoch 284, Total training loss 0.017509, Total validation loss 0.003409
+Epoch 285, Total training loss 0.017230, Total validation loss 0.003428
+Epoch 286, Total training loss 0.017518, Total validation loss 0.003814
+New model saved!
+Epoch 287, Total training loss 0.017311, Total validation loss 0.003285
+Epoch 288, Total training loss 0.017422, Total validation loss 0.005043
+Epoch 289, Total training loss 0.017916, Total validation loss 0.003404
+Epoch 290, Total training loss 0.017257, Total validation loss 0.003523
+Epoch 291, Total training loss 0.017602, Total validation loss 0.004128
+Epoch 292, Total training loss 0.017808, Total validation loss 0.004064
+Epoch 293, Total training loss 0.017299, Total validation loss 0.003293
+Epoch 294, Total training loss 0.016900, Total validation loss 0.003625
+Epoch 295, Total training loss 0.017089, Total validation loss 0.003337
+Epoch 296, Total training loss 0.017235, Total validation loss 0.004676
+New model saved!
+Epoch 297, Total training loss 0.017856, Total validation loss 0.003249
+Epoch 298, Total training loss 0.016915, Total validation loss 0.003360
+Epoch 299, Total training loss 0.016942, Total validation loss 0.003327
+Epoch 300, Total training loss 0.017432, Total validation loss 0.003873
