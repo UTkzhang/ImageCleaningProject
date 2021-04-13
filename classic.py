@@ -40,12 +40,34 @@ def adaptive_filter(image_path):
     return cv2.adaptiveThreshold(img,255,cv2.ADAPTIVE_THRESH_GAUSSIAN_C,cv2.THRESH_BINARY,15,20)
 
 
+########################################################
+# PART 4 - Bilateral Filter
+########################################################
+def bilateral_filter(image_path):
+    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE) # Load image
+    return cv2.bilateralFilter(img,5,100,100)
+
+
+########################################################
+# PART 5 - Otsu's Binarization
+########################################################
+def otsu_binarization(image_path):
+    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE) # Load image
+    blur = cv2.GaussianBlur(img,(3,3),0)
+    retval,result = cv2.threshold(blur,0,255,cv2.THRESH_BINARY+cv2.THRESH_OTSU)
+    return result.astype(np.uint8)
+
+
 if not os.path.exists(results_path+"/median_filtered"):
     os.mkdir(results_path+"/median_filtered")
 if not os.path.exists(results_path+"/edge_dilation_erosion"):
     os.mkdir(results_path+"/edge_dilation_erosion")
 if not os.path.exists(results_path+"/adaptive_filtered"):
     os.mkdir(results_path+"/adaptive_filtered")
+if not os.path.exists(results_path+"/bilateral_filtered"):
+    os.mkdir(results_path+"/bilateral_filtered")
+if not os.path.exists(results_path+"/otsu_binarization"):
+    os.mkdir(results_path+"/otsu_binarization")
 
 for img in sorted(os.listdir(data_path)):
     if img.endswith('.png'):
@@ -53,3 +75,5 @@ for img in sorted(os.listdir(data_path)):
         cv2.imwrite(os.path.join(results_path+"/median_filtered",img),median_filter(os.path.join(data_path,img)))
         cv2.imwrite(os.path.join(results_path+"/edge_dilation_erosion",img),edge_dilation_erosion_filter(os.path.join(data_path,img)))
         cv2.imwrite(os.path.join(results_path+"/adaptive_filtered",img),adaptive_filter(os.path.join(data_path,img)))
+        cv2.imwrite(os.path.join(results_path + "/bilateral_filtered", img),bilateral_filter(os.path.join(data_path, img)))
+        cv2.imwrite(os.path.join(results_path + "/otsu_binarization", img),otsu_binarization(os.path.join(data_path, img)))

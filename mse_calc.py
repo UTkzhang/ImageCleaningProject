@@ -70,3 +70,15 @@ print(edgedilationerosion_mse)
 medianfiltered_mse = mse_calc(truth_files, "./results/median_filtered/%s.png")
 print("=== MEDIANFILTERED RESULT ===")
 print(medianfiltered_mse)
+
+bilateralfiltered_mse = mse_calc(truth_files, "./results/bilateral_filtered/%s.png")
+print("=== BILATERALFILTERED RESULT ===")
+print(bilateralfiltered_mse)
+
+otsubinarization_mse = mse_calc(truth_files, "./results/otsu_binarization/%s.png")
+print("=== OTSUBINARIZATION RESULT ===")
+print(otsubinarization_mse)
+
+donothing_mse = mse_calc(truth_files, "./datasets/noisytext/testA/%s.png")
+print("=== DONOTHING RESULT ===")
+print(donothing_mse)
